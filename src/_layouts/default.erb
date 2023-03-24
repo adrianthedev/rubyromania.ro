@@ -1,9 +1,31 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <link rel="stylesheet" href="{% asset_path css %}" />
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body>
+  <body class="font-sans leading-normal tracking-normal">
+    <div class="container mx-auto">
+      <h1 class="text-5xl text-red-600 font-bold mt-20">Ruby Romania</h1>
+
+      <p class="text-lg py-4 font-semibold text-gray-600">Current initiatives:</p>
+
+      <div class="max-w-sm w-full lg:max-w-full lg:flex">
+        <div class="h-56 lg:h-auto lg:w-72 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden" style="background-image: url('/images/friendly_rb.jpg')" title="Friendly.rb">
+        </div>
+        <div class="bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
+          <div class="mb-8">
+            <p class="text-sm text-gray-600 flex items-center">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 016 18.719m12 0a5.971 5.971 0 00-.941-3.197m0 0A5.995 5.995 0 0012 12.75a5.995 5.995 0 00-5.058 2.772m0 0a3 3 0 00-4.681 2.72 8.986 8.986 0 003.74.477m.94-3.197a5.971 5.971 0 00-.94 3.197M15 6.75a3 3 0 11-6 0 3 3 0 016 0zm6 3a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0zm-13.5 0a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0z" />
+              </svg>
+              Conference
+            </p>
+            <div class="text-gray-900 font-bold text-xl mb-2"><a href="https://friendlyrb.com" class="hover:underline hover:cursor-pointer hover:text-red-600">Friendly.rb</a></div>
+            <p class="text-gray-700 text-base">A new European Ruby conference in Bucharest. With a focus on community, we're keeping it cozy with 100-ish attendees and some of the best European speakers.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
   </body>
 </html>
