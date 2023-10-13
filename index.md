@@ -1,16 +1,57 @@
 ---
 layout: default
-title: "Happy coding"
+title: Home
 ---
 
-<section class="hero bg-gray-200 py-12 md:py-16 text-center">
-    <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">Welcome to Ruby Romania</h1>
-    <p class="text-base md:text-lg lg:text-xl mt-4">Promoting the Ruby language and building a vibrant community in Romania.</p>
-    <a href="meetup.html" class="inline-block px-6 md:px-8 py-3 bg-red-700 text-white font-semibold rounded mt-6 md:mt-8">Join Our Next Meetup</a>
+<section class="py-2 md:py-4 flex flex-col md:flex-row gap-x-4">
+    <div class="md:w-1/2">
+        <div class="container mx-auto text-center md:text-left">
+            <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight mt-24 mb-4">Empowering Rubyists in Romania</h1>
+            <p class="text-lg md:text-xl lg:text-2xl mb-6">We are a community dedicated to the promotion and advancement of the Ruby programming language within Romania 🇷🇴</p>
+            <a href="about.html" class="inline-block px-8 py-3 bg-red-700 text-white font-semibold rounded hover:bg-red-800 transition duration-300 ease-in-out transform hover:-translate-y-1">Learn More</a>
+        </div>
+    </div>
+    <div class="md:w-1/2">
+        <img src="/assets/group-discussion.svg" alt="Ruby Programming" class="mx-auto">
+    </div>
 </section>
 
-<section class="about bg-white py-8 md:py-12 text-center">
-    <h2 class="text-2xl md:text-3xl lg:text-4xl font-bold">About Us</h2>
-    <p class="text-base md:text-lg lg:text-xl mt-4">Learn about our mission, the team, and why Ruby is important in Romania.</p>
-    <a href="about.html" class="inline-block px-6 md:px-8 py-2 bg-red-700 text-white font-semibold rounded mt-4">Read More</a>
+<section class="py-8 md:py-10">
+    <div class="container mx-auto">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Events</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="bg-white rounded shadow-lg p-4">
+                <h3 class="text-xl font-semibold mb-2">November Meetup</h3>
+                <p class="text-gray-700">🗓️ 22 Nov</p>
+                <p class="text-gray-700">📍 Softia</p>
+                <a href="#" class="text-blue-500 hover:underline">Learn More</a>
+            </div>
+              <div class="bg-white rounded shadow-lg p-4">
+                <h3 class="text-xl font-semibold mb-2"><a href="https://friendlyrb.com">FriendlyRb 2023</a></h3>
+                <p class="text-gray-700">🗓️ 27-28 Sep</p>
+                <p class="text-gray-700">📍 Apollo 111</p>
+                <a href="https://friendlyrb.com" class="text-blue-500 hover:underline">Learn More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-8 md:py-10">
+    <div class="container mx-auto">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Our Partners & Sponsors</h2>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            <div class="bg-white rounded shadow-lg p-4 text-center">
+              <img src="https://placehold.co/400" alt="Partner or Sponsor 1">
+            </div>
+            <div class="bg-white rounded shadow-lg p-4 text-center">
+              <img src="https://placehold.co/400" alt="Partner or Sponsor 2">
+            </div>            
+            <div class="bg-white rounded shadow-lg p-4 text-center">
+              <img src="https://placehold.co/400" alt="Partner or Sponsor 3">
+            </div>
+            <div class="bg-white rounded shadow-lg p-4 text-center">
+              <img src="https://placehold.co/400" alt="Partner or Sponsor 4">
+            </div>
+        </div>
+    </div>
 </section>
