@@ -9,7 +9,7 @@ title: "News"
     <ul class="list-disc pl-6">
         {% for post in site.posts %}
         <li>
-            <span class="text-blue-500">{{ post.date | date: "%B %-d, %Y" }}</span> &mdash; <a href="{{ post.url }}" class="hover:underline">{{ post.title }}</a>
+            <span>{{ post.date | date: "%B %-d, %Y" }}</span> &mdash; <a href="{{ post.url }}" class="text-blue-500 hover:underline">{{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>
