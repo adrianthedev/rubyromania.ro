@@ -22,14 +22,14 @@ title: Home
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2">November Meetup</h3>
-                <p class="text-gray-700">🗓️ 22 Nov</p>
-                <p class="text-gray-700">📍 Softia</p>
+                <p class="">🗓️ 22 Nov</p>
+                <p class="">📍 Softia</p>
                 <a href="#" class="text-blue-500 hover:underline">Learn More</a>
             </div>
               <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2"><a href="https://friendlyrb.com">FriendlyRb 2023</a></h3>
-                <p class="text-gray-700">🗓️ 27-28 Sep</p>
-                <p class="text-gray-700">📍 Apollo 111</p>
+                <p class="">🗓️ 27-28 Sep</p>
+                <p class="">📍 Apollo 111</p>
                 <a href="https://friendlyrb.com" class="text-blue-500 hover:underline">Learn More</a>
             </div>
         </div>
