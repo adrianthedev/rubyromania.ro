@@ -36,7 +36,7 @@ title: Home
     </div>
 </section>
 
-<section class="py-8 md:py-10">
+<!-- <section class="py-8 md:py-10">
     <div class="container mx-auto">
         <h2 class="text-3xl md:text-4xl font-bold mb-4">Our Partners & Sponsors</h2>
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
@@ -54,4 +54,4 @@ title: Home
             </div>
         </div>
     </div>
-</section>
+</section> -->
