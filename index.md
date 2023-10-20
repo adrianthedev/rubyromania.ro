@@ -22,9 +22,9 @@ title: Home
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2">November Meetup</h3>
-                <p class="">🗓️ 22 Nov, 2023</p>
-                <p class="">📍 Softia</p>
-                <a href="#" class="text-blue-500 hover:underline">Learn More</a>
+                <p class="">🗓️ 22 Nov, 2023, 18:30</p>
+                <p class="">📍 Șoseaua Virtuții 19D (Softia)</p>
+                <a href="https://www.meetup.com/ruby-romania-meetup/events/296833265/" class="text-blue-500 hover:underline">Learn More</a>
             </div>
             <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2"><a href="https://2023.friendlyrb.com">Friendly.rb Conference</a></h3>
