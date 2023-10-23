@@ -24,7 +24,7 @@ title: Home
                 <h3 class="text-xl font-semibold mb-2">November Meetup</h3>
                 <p class="">🗓️ 22 Nov, 2023, 18:30</p>
                 <p class="">📍 Bucuresti, Șoseaua Virtuții 19D (Softia)</p>
-                <a href="https://www.meetup.com/ruby-romania-meetup/events/296833265" class="text-blue-500 hover:underline">Learn More</a>
+                <a href="https://www.meetup.com/ruby-romania/events/296874165/" class="text-blue-500 hover:underline">Learn More</a>
             </div>
             <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2"><a href="https://2023.friendlyrb.com">Friendly.rb Conference</a></h3>
