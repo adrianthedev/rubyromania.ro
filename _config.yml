@@ -13,3 +13,6 @@ exclude:
   - postcss.config.js
   - tailwind.config.js
   - yarn.lock
+
+include:
+  - _redirects
