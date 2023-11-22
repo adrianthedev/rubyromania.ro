@@ -23,7 +23,7 @@ title: About Us
         <p class="text-lg md:text-xl lg:text-2xl mb-6">Are you passionate about Ruby programming? Join us in our mission to grow and strengthen the Ruby community in Romania. Here's how you can get involved:</p>
         <ul class="list-disc text-lg md:text-xl lg:text-2xl text-left ml-6 mb-6">
             <li>Attend our meetups and conferences</li>
-            <li>Volunteer or speak at our events</li>
+            <li>Volunteer or <a class="text-blue-700 hover:underline" href="{{ site.baseurl }}/cfp">speak at our events</a></li>
             <li>Discover <a class="text-blue-700 hover:underline" href="{{ site.baseurl }}/sponsor">sponsorship opportunities</a></li>
         </ul>
     </div>
