@@ -45,7 +45,7 @@ title: Home
 <section class="py-8 md:py-10">
     <div class="container mx-auto bg-white">
         <h2 class="text-3xl md:text-4xl font-bold mb-4 p-3 text-center">Subscribe to our newsletter</h2>
-        <iframe src="https://rubyromania.substack.com/embed" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://rubyromania.substack.com/embed" width="100%" height="120" frameborder="0" scrolling="no"></iframe>
     </div>
 </section>
 
