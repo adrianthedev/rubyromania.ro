@@ -22,22 +22,28 @@ title: Home
         <h2 class="text-3xl md:text-4xl font-bold mb-4">Initiatives</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div class="bg-white rounded shadow-lg p-4">
-                <h3 class="text-xl font-semibold mb-2">November Meetup</h3>
-                <p class="">🗓️ 22 Nov, 2023, 18:30</p>
-                <p class="">📍 Bucuresti, Șoseaua Virtuții 19D (Softia)</p>
-                <a href="https://www.meetup.com/ruby-romania/events/296874165/" class="text-blue-500 hover:underline">Learn More</a>
+                <h3 class="text-xl font-semibold mb-2">Sibiu Meetup</h3>
+                <p class="">🗓️ 02 Feb, 2024, 18:30</p>
+                <p class="">📍 Biblioteca Judeteana Astra, Corp B, Etaj V American Corner</p>
+                <!--<a href="https://www.meetup.com/ruby-romania/events/296874165/" class="text-blue-500 hover:underline">Learn More</a>!-->
+            </div>
+           <div class="bg-white rounded shadow-lg p-4">
+                <h3 class="text-xl font-semibold mb-2">Bucuresti Meetup</h3>
+                <p class="">🗓️ 08 Feb, 2024, 🕚TBD</p>
+                <p class="">📍 TDB</p>
+                <!--<a href="https://www.meetup.com/ruby-romania/events/296874165/" class="text-blue-500 hover:underline">Learn More</a>!-->
             </div>
             <div class="bg-white rounded shadow-lg p-4">
-                <h3 class="text-xl font-semibold mb-2"><a href="https://2023.friendlyrb.com">Friendly.rb Conference</a></h3>
-                <p class="">🗓️ 27-28 Sep, 2023</p>
+                <h3 class="text-xl font-semibold mb-2"><a href="https://2023.friendlyrb.com">Friendly.rb Conference 2024</a></h3>
+                <p class="">🗓️ 18-19 Sep, 2024</p>
                 <p class="">📍 Apollo 111</p>
-                <a href="https://2023.friendlyrb.com" class="text-blue-500 hover:underline">Learn More</a>
-            </div>
-            <div class="bg-white rounded shadow-lg p-4">
+                <a href="https://friendlyrb.com" class="text-blue-500 hover:underline">Learn More</a>
+            </div>         
+            <!--<div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2"><a href="{{site.baseurl}}/2023/10/16/2022-survey-results.html">2022 Survey</a></h3>
                 <p class="">🗓️ Jul, 2022</p>
                 <a href="{{site.baseurl}}/2023/10/16/2022-survey-results.html" class="text-blue-500 hover:underline">Learn More</a>
-            </div>
+            </div>-->
         </div>
     </div>
 </section>
