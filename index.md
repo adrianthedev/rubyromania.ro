@@ -25,7 +25,7 @@ title: Home
                 <h3 class="text-xl font-semibold mb-2">Sibiu Meetup</h3>
                 <p class="">🗓️ 02 Feb, 2024, 18:30</p>
                 <p class="">📍 Biblioteca Judeteana Astra, Corp B, Etaj V American Corner</p>
-                <!--<a href="https://www.meetup.com/ruby-romania/events/296874165/" class="text-blue-500 hover:underline">Learn More</a>!-->
+                <a href="https://www.meetup.com/ruby-romania/events/298491370/" class="text-blue-500 hover:underline">Reserve your spot</a>
             </div>
            <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2">Bucuresti Meetup</h3>
