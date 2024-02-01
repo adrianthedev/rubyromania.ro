@@ -9,7 +9,7 @@ title: Home
             <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight mt-24 mb-4">Empowering Rubyists in Romania</h1>
             <p class="text-lg md:text-xl lg:text-2xl mb-6">We are a community dedicated to the promotion and advancement of the Ruby programming language within Romania 🇷🇴</p>
             <a href="about.html" class="inline-block px-8 py-3 bg-red-700 text-white font-semibold rounded hover:bg-red-800 transition duration-300 ease-in-out transform hover:-translate-y-1">Learn More</a>
-            <a href="https://discord.gg/GYphqsMNcP" class="inline-block px-8 py-3 bg-[#5865F2] text-white font-semibold rounded transition duration-300 ease-in-out transform hover:-translate-y-1">Join our Discord</a>
+            <a href="https://dub.sh/veAi8mq" class="inline-block px-8 py-3 bg-[#5865F2] text-white font-semibold rounded transition duration-300 ease-in-out transform hover:-translate-y-1">Join our Discord</a>
         </div>
     </div>
     <div class="md:w-1/2">
