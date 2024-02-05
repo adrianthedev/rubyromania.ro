@@ -2,7 +2,7 @@
 layout: default
 title: "Code of Conduct"
 ---
-<section class="container mx-auto py-8 px-40 space-y-3">
+<section class="container mx-auto py-8 md:px-12 lg:px-40 space-y-3">
   <h1 class="text-3xl md:text-4xl font-bold mb-4">Code of conduct</h1>
   
 
