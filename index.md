@@ -29,7 +29,7 @@ title: Home
             </div>
             <div class="bg-white rounded shadow-lg p-4">
                 <h3 class="text-xl font-semibold mb-2"><a href="https://friendlyrb.com">Friendly.rb Conference 2025</a></h3>
-                <p class="">🗓️  10- 11, Sep, 2025</p>
+                <p class="">🗓️  10-11, Sep, 2025</p>
                 <p class="">📍 Apollo 111</p>
                 <a href="https://friendlyrb.com" class="text-blue-500 hover:underline">Learn More</a>
             </div>
